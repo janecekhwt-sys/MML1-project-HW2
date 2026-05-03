@@ -1,9 +1,9 @@
 # MML1-project-HW2
-– Data Processing Pipeline
+Data Processing Pipeline
 
 ## Jak spustit
 
-1. Otevřít dataprocessing.ipynb
+## 1. Otevřít dataprocessing.ipynb
 2. Spustit všechny buňky
 3. Otevřít benchmark.ipynb
 
